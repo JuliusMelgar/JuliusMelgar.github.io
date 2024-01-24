@@ -5,13 +5,23 @@ h1 {
     margin: auto 50px;
     padding: -10px;
     text-align: center;
-    width: 50%;
+    width: 75%;
 }
 
-#top {
-    margin-bottom: 0.5rem;
+h3 {
+    color: blue;
+    background-color: beige;
+    margin: auto 20;
+    padding: -10px;
+    text-align: center;
+    height: 25%;
 }
 
-#bottom {
-    margin-top: 10rem;
+p {
+    color: blue;
+    background-color: beige;
+    margin: auto 20;
+    padding: -10px;
+    text-align: center;
+    height: 25%;
 }
